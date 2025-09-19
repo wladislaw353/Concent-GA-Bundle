@@ -16,7 +16,7 @@ Complete Google Consent Mode v2 implementation with integrated Google Analytics 
 
 1. Include the script in your `<head>`:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/wladislaw353/Concent-GA-Bundle@1.0/consent-bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/wladislaw353/Concent-GA-Bundle@1.1/consent-bundle.min.js"></script>
 ```
 
 2. Initialize with ALL required parameters:
